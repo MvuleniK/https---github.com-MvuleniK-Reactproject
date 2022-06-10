@@ -1,0 +1,38 @@
+
+/* *{
+  margin: 0;
+  padding: 0;
+
+} */
+
+/* .right-container {
+     background-color: green;
+     width: 10rem;
+
+} */
+
+.content .detailContent .colour-button{
+
+  position:static;
+  left:40em;
+  margin-top: 11em;
+  margin-left:40rem;
+  
+
+}
+
+
+.content{
+  position:static;
+}
+
+.content .rightBottom{
+  align-items: center;
+
+}
+
+
+
+
+
+
